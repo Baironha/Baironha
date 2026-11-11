@@ -38,5 +38,5 @@ I believe in innovation, technical excellence, and the development of solutions 
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bairon-horna-alva077/)
 [![Email](https://img.shields.io/badge/Email-bayronha077%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bayronha077@gmail.com)
